@@ -8,6 +8,8 @@
 - IoT
 
 ### 🌱 I’m currently learning
+- Kotlin
+- Android
 - Flutter
 - iOS
 - Go
